@@ -7,7 +7,7 @@ Minimal FastAPI app + Dockerfile + GitHub Actions workflows demonstrating CI bui
 
 ## Structure
 
-```
+``` 
 .
 ├── Dockerfile
 ├── requirements.txt
